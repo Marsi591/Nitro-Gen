@@ -1,4 +1,4 @@
-#Nitro Gen
+Nitro Gen
 
 The Nitro Codes are mostly not working but with luck it will work!
 
